@@ -1,0 +1,2 @@
+🇧🇷 Erudit3x está fazendo stream por $(uptime)
+🇬🇧 Erudit3x has been streaming for $(uptime)
