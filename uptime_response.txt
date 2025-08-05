@@ -1,2 +1,4 @@
-🇧🇷 Erudit3x está fazendo stream por !var_uptime
+🇧🇷 Erudit3x está fazendo stream por !var_uptime 
 🇬🇧 Erudit3x has been streaming for /var_uptime
+🇬🇧 Erudit3x has been streaming for $(uptime)
+🇬🇧 Erudit3x has been streaming for ${uptime}
